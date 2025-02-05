@@ -1,22 +1,22 @@
 # Moiveo 🎬
 
-## Огляд
-**Moiveo** — це сучасний кіно-додаток, що дозволяє користувачам переглядати популярні фільми та телешоу. Додаток використовує дані з **TMDB API** для відображення актуальної інформації про останні тренди кіноіндустрії. Завдяки чудовому UI, швидкому завантаженню та інтеграції з найкращими технологіями, додаток забезпечує неймовірний користувацький досвід.
+## Overview
+**Moiveo** is a modern movie application that allows users to explore popular movies and TV shows. The app uses data from **TMDB API** to display up-to-date information on the latest trends in the film industry. With an excellent UI, fast loading, and integration with top technologies, the app delivers an exceptional user experience.
 
-## Функціонал
-- 📽️ **Популярні фільми**: Переглядайте фільми, що в тренді.
-- 🎬 **Списки телешоу**: Отримуйте інформацію про останні серіали.
-- ⭐ **Оцінки та перегляди**: Дивіться оцінки та кількість переглядів фільмів.
-- 🔍 **Пошук**: Легко знаходьте улюблені фільми та телешоу.
-- 📱 **Мобільна підтримка**: Адаптивний дизайн для смартфонів і планшетів.
+## Features
+- 📽️ **Popular Movies**: Browse trending movies.
+- 🎬 **TV Show Listings**: Get information on the latest series.
+- ⭐ **Ratings and Views**: View movie ratings and watch counts.
+- 🔍 **Search**: Easily find your favorite movies and TV shows.
+- 📱 **Mobile Support**: Responsive design for smartphones and tablets.
 
-## Технології
-Проєкт побудований з використанням сучасних технологій:
-- **React** ⚛️ – для створення компонентів інтерфейсу.
-- **TailwindCSS** 🎨 – для стильового оформлення та адаптивності.
-- **TMDB API** 🎥 – для отримання даних про фільми.
-- **Redux Toolkit** 🛠️ – для управління станом додатку.
-- **Vercel** 🚀 – для деплою додатку.
+## Technologies
+The project is built using modern technologies:
+- **React** ⚛️ – for creating user interface components.
+- **TailwindCSS** 🎨 – for styling and responsiveness.
+- **TMDB API** 🎥 – for retrieving movie data.
+- **Redux Toolkit** 🛠️ – for state management.
+- **Vercel** 🚀 – for application deployment.
 
-## Скріншоти
+
 ![Moiveo Demo](./foto.png)
